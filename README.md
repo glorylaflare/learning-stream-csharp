@@ -108,14 +108,6 @@ Este projeto aborda conceitos importantes como:
 - Desenvolvimento de workers hospedados com .NET.
 - Injeção de dependência e configurações.
 
-## Próximos Passos
-
-Para expandir o aprendizado:
-- Adicionar testes unitários.
-- Implementar retry e circuit breaker para conexões.
-- Suporte a múltiplos servidores SFTP.
-- Monitoramento com Application Insights.
-
 ## Licença
 
 Este projeto é para fins educacionais e não possui licença específica.</content>
