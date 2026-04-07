@@ -111,4 +111,3 @@ Este projeto aborda conceitos importantes como:
 ## Licença
 
 Este projeto é para fins educacionais e não possui licença específica.</content>
-<parameter name="filePath">d:\Programação\meus-projetos\csharp\learning-stream-csharp\README.md
