@@ -107,7 +107,3 @@ Este projeto aborda conceitos importantes como:
 - Geração dinâmica de arquivos CSV e ZIP.
 - Desenvolvimento de workers hospedados com .NET.
 - Injeção de dependência e configurações.
-
-## Licença
-
-Este projeto é para fins educacionais e não possui licença específica.</content>
